@@ -1,1 +1,15 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Breach RP Bot",
+  "main": "index.js",
+  "scripts": {
+    "starts": "node bot.js"
+  }, 1"
+  "author": "Gamer",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
 
